@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jobpos-deploy/static/css/main.f69a8dad.css",
+    "main.js": "/jobpos-deploy/static/js/main.d2b883ff.js",
+    "static/js/453.ff6a5ab7.chunk.js": "/jobpos-deploy/static/js/453.ff6a5ab7.chunk.js",
+    "index.html": "/jobpos-deploy/index.html",
+    "main.f69a8dad.css.map": "/jobpos-deploy/static/css/main.f69a8dad.css.map",
+    "main.d2b883ff.js.map": "/jobpos-deploy/static/js/main.d2b883ff.js.map",
+    "453.ff6a5ab7.chunk.js.map": "/jobpos-deploy/static/js/453.ff6a5ab7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f69a8dad.css",
+    "static/js/main.d2b883ff.js"
+  ]
+}
