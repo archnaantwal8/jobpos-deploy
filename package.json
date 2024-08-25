@@ -1,6 +1,6 @@
 {
-  "name": "jobpos",
   "homepage": "http://archnaantwal8.github.io/jobpos-deploy",
+  "name": "jobpos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
